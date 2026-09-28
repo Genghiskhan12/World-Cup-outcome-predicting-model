@@ -1,6 +1,5 @@
 # World-Cup-outcome-predicting-model
 Machine learning project for predicting FIFA World Cup match outcomes using historical match data, feature engineering, and a chronological validation approach.
-# World Cup Match Prediction
 
 A junior machine-learning project that uses historical FIFA World Cup match data to estimate the probability of three possible match outcomes:
 
