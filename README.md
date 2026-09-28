@@ -42,7 +42,6 @@ WC_DS_project/
 │       ├── GUI.ipynb
 │       └── gui.py
 ├── screenshots/
-├── model.pkl
 ├── requirements.txt
 └── README.md
 ```
@@ -145,17 +144,6 @@ Football match outcomes are difficult to predict, and draws are especially chall
 
 The model’s imperfect performance is an expected limitation of this junior project. The main purpose is to demonstrate data preparation, leakage-aware feature engineering, model evaluation, serialization, and deployment through a simple GUI.
 
-## Portfolio screenshots
-
-The README should include approximately five clear screenshots:
-
-1. Exploratory data-analysis chart
-2. Final cleaned dataset and missing-value check
-3. Model comparison table
-4. Final chronological evaluation or confusion matrix
-5. GUI displaying a prediction and probabilities
-
-Screenshots should show notebook outputs, charts, tables, or the GUI rather than large blocks of code.
 
 ### Exploratory analysis
 
@@ -194,4 +182,4 @@ Screenshots should show notebook outputs, charts, tables, or the GUI rather than
 
 ## License
 
-This project is intended for educational and portfolio use. Add a specific open-source license if you decide to publish the repository for reuse by others.
+This project is intended for educational and portfolio use only.
